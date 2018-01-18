@@ -1,0 +1,37 @@
+eugeniu@hogwarts:~/SynchedDocuments/UCSB/Perfect Metal/SimAnnealing$ python pm-annealing-search.py 
+1.41694351446030620000000000152
+
+
+Minimal norm-squared =  2.00772892317
+
+
+
+
+
+Minimal norm-squared =  1.40294834339
+Computed in:  0.000
+
+Minimal norm-squared =  1.40294762378
+Computed in:  0.000
+
+Minimal norm-squared =  1.40294795833
+Computed in:  0.010
+
+Minimal norm-squared =  3.4071095
+Computed in:  0.000
+
+Minimal norm-squared =  3.4071095
+Computed in:  0.000
+
+                       ^
+
+Magma returned a non-number value
+
+
+Traceback (most recent call last):
+  File "pmannealer.py", line 234, in <module>
+    print basinhopping(cost, params)
+  File "/usr/lib/python2.7/dist-packages/scipy/optimize/_basinhopping.py", line 618, in basinhopping
+    new_global_min = bh.one_cycle()
+  File "/usr/lib/python2.7/dist-packages/scipy/optimize/_basinhopping.py", line 157, in one_cycle
+

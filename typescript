@@ -1,0 +1,6 @@
+Script started on Fri May 13 16:44:25 2016
+eugeniu@hogwarts:~/SynchedDocuments/UCSB/Perfect Metal/SimAnnealing$ ps aux | grep -i annealing
+eugeniu  17603  2.5  0.2 270076 22540 pts/2    S+   16:44   0:00 /usr/bin/python ./pm-annealing-search.py
+eugeniu  17611  0.0  0.0  35652  2188 pts/3    S+   16:44   0:00 grep -i annealing
+eugeniu@hogwarts:~/SynchedDocuments/UCSB/Perfect Metal/SimAnnealing$ exit
+Script done on Fri May 13 16:44:38 2016
